@@ -1,0 +1,8 @@
+Image
+*.bin
+*.elf
+*.ext2
+*.tar
+build
+.cache
+
